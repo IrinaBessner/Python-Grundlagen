@@ -1,0 +1,3 @@
+Hallo, das ist meine erste Datei mit Python!
+Ich lerne gerade, wie man Dateien liest und schreibt.
+Diese Zeile wurde später hinzugefügt.

@@ -16,7 +16,7 @@ print(int(my_int/my_float))
 
 print(my_int%my_float)
 
-print(int(my_int/my_float))
+
 
 
 

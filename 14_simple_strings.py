@@ -33,7 +33,7 @@ print(multi)
 
 a="Hallo"
 b="Welt"
-print(a+ " " + b)
-print(a*3)
-print(len(a))
-print(a[1])
+print(a+ " " + b)  # Konkatenation -> Hallo Welt
+print(a*3)         # Wiederholung -> HalloHalloHallo
+print(len(a))      # Länge -> 5
+print(a[1])        # Index-> 'a'
