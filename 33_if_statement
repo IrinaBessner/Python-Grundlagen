@@ -1,0 +1,11 @@
+a=10
+b=9
+
+if a > b :
+    print("a gröser als b")
+
+    my_var=True
+    print(my_var)
+
+
+print("enter yo")
