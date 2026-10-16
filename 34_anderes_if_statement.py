@@ -11,7 +11,7 @@
 # print ("Abgenmacht!")
 
 # #Beispiel 2
-# #punktzahl = 82
+# 
 #print("enter deine Punktzahl:")
 #punktzahl=input()
 

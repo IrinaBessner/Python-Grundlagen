@@ -1,0 +1,35 @@
+#for x in range (10):
+#    print(x)
+
+#for x in range(5,10):
+#    print (x)
+
+#for x in range(0,5,10):
+ #   print (x)
+
+#my_players=["pl1", "pl2", "pl3", "pl4", "pl5"]
+#for x in range(5):
+#    print("Player" + str(x+1) + ":" + my_players[x])
+
+
+
+#my_players=["Franz Müller", "Gerd Dumm", "Otto Bauer", "Manuel Neuyer"]
+#x=0
+#for x in range(4):
+    #if x> 1:
+        #break
+    #print ("Player" + str(x+1) + ":" + my_players[x])
+    
+#print ("End of roster")
+
+
+
+
+my_players=["Franz Müller", "Gerd Dumm", "Otto Bauer", "Manuel Neuyer"]
+x=0
+for x in range(4):
+    if x== 2:
+        continue
+    print ("Player" + str(x+1) + ":" + my_players[x])
+    
+print ("End of roster")
