@@ -14,6 +14,7 @@ def my_func():
     print(x)
 
 my_func()
+
 def my_func1():
     global x
     x = "ich existiere hier"
